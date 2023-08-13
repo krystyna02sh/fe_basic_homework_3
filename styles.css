@@ -1,0 +1,9 @@
+.main-picture {
+  aspect-ratio: 3/1;
+}
+.gallery-picture {
+  aspect-ratio: 15/10;
+}
+.white-picture {
+  aspect-ratio: 17/10;
+}
